@@ -26,6 +26,7 @@
         "typescript": "^5.7.3"
     },
     "dependencies": {
+        "@umerx/kafkajs-client": "^4.0.1",
         "ws": "^8.18.1"
     },
     "repository": {
