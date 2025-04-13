@@ -17,7 +17,8 @@
 		"--name=frosttide-command-service",
 		"--network=kafka_external"
 	],
-	"forwardPorts": ["8291:8080"],
+	"appPort": ["8291:8080"],
+	// "forwardPorts": ["8080:8291"],
 	"customizations": {
 		"vscode": {
 			"settings": {
