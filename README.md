@@ -1,1 +1,1 @@
-# Fencing Token Generator
+# FrostTide Command Service
